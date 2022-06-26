@@ -1,3 +1,5 @@
+# Ex.NO.:02
+# Date:28.04.2022
 # Breadth First Search
 ## AIM
 
@@ -200,6 +202,9 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ## SOLUTION JUSTIFICATION:
 Route follow the minimum distance between locations using breadth-first search.
+</br>
+</br>
+</br>
 
 ## RESULT:
 Thus an algorithm to find the route from the source to the destination point using breadth-first search is developed and executed successfully.
